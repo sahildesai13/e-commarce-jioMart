@@ -1,0 +1,10 @@
+.itemsBtn:hover{
+    text-decoration: underline;
+    transition: 0.2s;
+}
+.itemsBtn{
+    color: black;
+    cursor: pointer;
+    font-size: 18px;
+    margin: 20px 0 ;
+}
